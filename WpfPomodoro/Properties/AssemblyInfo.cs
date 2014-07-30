@@ -8,11 +8,11 @@ using System.Windows;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("SinglePomodoro")]
-[assembly: AssemblyDescription("pomodoro App")]
+[assembly: AssemblyDescription("Simple Pomodoro Aplication")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Propos Project")]
 [assembly: AssemblyProduct("Single Pomodoro for Windows")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCopyright("Copyright ©  2014 Propos Project")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

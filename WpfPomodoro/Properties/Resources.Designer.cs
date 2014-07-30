@@ -97,16 +97,6 @@ namespace WpfPomodoro.Properties {
         }
         
         /// <summary>
-        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
-        /// </summary>
-        internal static System.Drawing.Bitmap icon_1r_64 {
-            get {
-                object obj = ResourceManager.GetObject("icon_1r_64", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
         ///   RESTART に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string RESTART {
