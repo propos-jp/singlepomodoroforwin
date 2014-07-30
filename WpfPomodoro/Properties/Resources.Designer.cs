@@ -88,7 +88,7 @@ namespace WpfPomodoro.Properties {
         }
         
         /// <summary>
-        ///   http://www.propos.jp/ に類似しているローカライズされた文字列を検索します。
+        ///   http://note.propos.jp/product/single-pomodoro-for-win に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string HOSTURL {
             get {
