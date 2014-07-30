@@ -49,7 +49,7 @@ namespace WpfPomodoro.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("60")]
+        [global::System.Configuration.DefaultSettingValueAttribute("1500")]
         public int WorkTime {
             get {
                 return ((int)(this["WorkTime"]));
@@ -61,7 +61,7 @@ namespace WpfPomodoro.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("30")]
+        [global::System.Configuration.DefaultSettingValueAttribute("300")]
         public int BreakTime {
             get {
                 return ((int)(this["BreakTime"]));
