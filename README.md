@@ -44,14 +44,5 @@ It is freeware. The MIT license is adopted.
 
 [Propos Porject](http://www.propos.jp/)
 
-<<<<<<< HEAD
-=======
 
-## DEMO
-
- ![DEMO](https://raw.github.com/wiki/propos-jp/singlepomodoroforwin/images/pomodoro-demo.gif)
-
-
-Hiroshi Obata <obata.hiroshi@propos.jp>
->>>>>>> 73aea0aed5cff26d118dd093517bb6f9097a7f50
 
